@@ -8,15 +8,15 @@ function callMe() {
 
 }
 
-
+function thisIsCrazy(){
+  console.log ("hey!!!")
+}
 function crazy() {
-  console.log("hey!!!")// fix the code in here:
-  thisIsCrazy();
+  // fix the code in here:
 
-  var thisIsCrazy = function (){
 
   }
-}
+
 
 function sayMyName() {
   // fix the code in here:
